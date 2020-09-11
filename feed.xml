@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>badlee.github.io</title>
+    <link href="https://badlee.github.io/feed.xml" rel="self" />
+    <link href="https://badlee.github.io" />
+    <updated>1970-01-01T00:00:00+00:00</updated>
+    <author>
+        <name>Ulrich Badinga</name>
+    </author>
+    <id>https://badlee.github.io</id>
+
+</feed>
