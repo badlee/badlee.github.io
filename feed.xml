@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Badinga Ulrich</title>
-    <link href="https://badlee.github.io/feed.xml" rel="self" />
-    <link href="https://badlee.github.io" />
+    <link href="https://badlee.js.org/feed.xml" rel="self" />
+    <link href="https://badlee.js.org" />
     <updated>1970-01-01T00:00:00+00:00</updated>
     <author>
         <name>Ulrich Badinga</name>
     </author>
-    <id>https://badlee.github.io</id>
+    <id>https://badlee.js.org</id>
 
     <entry>
         <title>Développeur web</title>
         <author>
             <name>Ulrich Badinga</name>
         </author>
-        <link href="https://badlee.github.io/developpeur-web/"/>
-        <id>https://badlee.github.io/developpeur-web/</id>
+        <link href="https://badlee.js.org/developpeur-web/"/>
+        <id>https://badlee.js.org/developpeur-web/</id>
 
-        <updated>2021-02-02T13:24:05+00:00</updated>
+        <updated>2021-02-02T13:31:55+00:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://badlee.github.io/media/posts/3/2778464.jpg" alt="" />
+                        <img src="https://badlee.js.org/media/posts/3/2778464.jpg" alt="" />
                     Le développeur web, c’est le responsable de la programmation. Il est en charge de la conception de sites, d’applications, de logiciels et de programmes informatiques&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://badlee.github.io/media/posts/3/2778464.jpg" alt="" />
+                    <img src="https://badlee.js.org/media/posts/3/2778464.jpg" alt="" />
                 <p>Le développeur web, c’est le responsable de la <strong>programmation</strong>. Il est en charge de la conception de sites, d’applications, de logiciels et de programmes informatiques « sur-mesure » pour répondre aux besoins de son entreprise ou des clients. Pour cela, il analyse d’abord leurs besoins et réfléchit à l’ergonomie du programme à venir, dans l’objectif de satisfaire les utilisateurs. Il dresse ensuite un cahier des charges qui précise tous les détails nécessaires pour ces <strong>créations</strong>, avant de l’appliquer en écrivant les lignes de code. Enfin, il effectue des tests et dans la majorité des cas, est obligé par la suite de corriger les erreurs et d’adapter le logiciel selon les demandes du client.</p>
 <p> </p>
 <p>Après la création du site, de l’application, du programme ou du logiciel commandé, le <strong>développeur web</strong> a pour mission de le maintenir et de le faire évoluer quand cela est nécessaire. Il est considéré comme le responsable de son bon fonctionnement. Dès que des bugs remontent, il doit les résoudre au plus vite pour qu’ils n’impactent pas le programme en question. Lorsque ses compétences le permettent, il veille à la responsivité du <strong>site</strong> afin que celui-ci soit optimisé pour le mobile.</p>
@@ -40,19 +40,19 @@
         <author>
             <name>Ulrich Badinga</name>
         </author>
-        <link href="https://badlee.github.io/conception-and-developpement-dapplication-mobile/"/>
-        <id>https://badlee.github.io/conception-and-developpement-dapplication-mobile/</id>
+        <link href="https://badlee.js.org/conception-and-developpement-dapplication-mobile/"/>
+        <id>https://badlee.js.org/conception-and-developpement-dapplication-mobile/</id>
 
-        <updated>2021-02-02T13:24:05+00:00</updated>
+        <updated>2021-02-02T13:31:55+00:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://badlee.github.io/media/posts/2/4325058.jpg" alt="" />
+                        <img src="https://badlee.js.org/media/posts/2/4325058.jpg" alt="" />
                     Les applications mobiles représentent désormais plus de la moitié du temps passé sur les téléphones mobiles et tablettes. Développer une application pour smartphone n’est&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://badlee.github.io/media/posts/2/4325058.jpg" alt="" />
+                    <img src="https://badlee.js.org/media/posts/2/4325058.jpg" alt="" />
                 <div class="row-bg-wrap" data-bg-animation="none">
 <div class="row-bg-overlay"><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Les applications mobiles représentent désormais plus de la moitié du temps passé sur les téléphones mobiles et tablettes.</span></div>
 </div>
@@ -87,19 +87,19 @@
         <author>
             <name>Ulrich Badinga</name>
         </author>
-        <link href="https://badlee.github.io/conception-and-developpement-dapplication-metier/"/>
-        <id>https://badlee.github.io/conception-and-developpement-dapplication-metier/</id>
+        <link href="https://badlee.js.org/conception-and-developpement-dapplication-metier/"/>
+        <id>https://badlee.js.org/conception-and-developpement-dapplication-metier/</id>
 
-        <updated>2021-02-02T13:24:05+00:00</updated>
+        <updated>2021-02-02T13:31:55+00:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://badlee.github.io/media/posts/1/343320-PALLZR-795-2.jpg" alt="" />
+                        <img src="https://badlee.js.org/media/posts/1/343320-PALLZR-795-2.jpg" alt="" />
                     Des solutions informatiques pour mieux gérer votre activitéVotre entreprise de développement Web à Abidjan vous permet de contrôler toutes les opérations de votre entreprise ou votre activité&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://badlee.github.io/media/posts/1/343320-PALLZR-795-2.jpg" alt="" />
+                    <img src="https://badlee.js.org/media/posts/1/343320-PALLZR-795-2.jpg" alt="" />
                 <div class="nectar-split-heading animated-in">
 <div class="heading-line">
 <h2>Des solutions informatiques pour mieux gérer votre activité</h2>

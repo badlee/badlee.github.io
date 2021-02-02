@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://badlee.github.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://badlee.js.org/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://badlee.github.io/</loc>
+<loc>https://badlee.js.org/</loc>
 </url>
 <url>
-<loc>https://badlee.github.io/conception-and-developpement-dapplication-metier/</loc>
-<lastmod>2020-09-11T22:56:14+00:00</lastmod>
+<loc>https://badlee.js.org/conception-and-developpement-dapplication-metier/</loc>
+<lastmod>2021-02-02T13:31:17+00:00</lastmod>
 <image:image>
-<image:loc>https://badlee.github.io/media/posts/1/343320-PALLZR-795-2.jpg</image:loc>
+<image:loc>https://badlee.js.org/media/posts/1/343320-PALLZR-795-2.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://badlee.github.io/conception-and-developpement-dapplication-mobile/</loc>
+<loc>https://badlee.js.org/conception-and-developpement-dapplication-mobile/</loc>
 <lastmod>2020-09-11T22:55:55+00:00</lastmod>
 <image:image>
-<image:loc>https://badlee.github.io/media/posts/2/4325058.jpg</image:loc>
+<image:loc>https://badlee.js.org/media/posts/2/4325058.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://badlee.github.io/developpeur-web/</loc>
+<loc>https://badlee.js.org/developpeur-web/</loc>
 <lastmod>2020-09-11T23:17:20+00:00</lastmod>
 <image:image>
-<image:loc>https://badlee.github.io/media/posts/3/2778464.jpg</image:loc>
+<image:loc>https://badlee.js.org/media/posts/3/2778464.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>

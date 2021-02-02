@@ -2,58 +2,58 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Badinga Ulrich",
     "description": "",
-    "home_page_url": "https://badlee.github.io",
-    "feed_url": "https://badlee.github.io/feed.json",
+    "home_page_url": "https://badlee.js.org",
+    "feed_url": "https://badlee.js.org/feed.json",
     "user_comment": "",
-    "icon": "https://badlee.github.io/media/website/logo.png",
+    "icon": "https://badlee.js.org/media/website/logo.png",
     "author": {
         "name": "Ulrich Badinga"
     },
     "items": [
         {
-            "id": "https://badlee.github.io/developpeur-web/",
-            "url": "https://badlee.github.io/developpeur-web/",
+            "id": "https://badlee.js.org/developpeur-web/",
+            "url": "https://badlee.js.org/developpeur-web/",
             "title": "Développeur web",
             "summary": "Le développeur web, c’est le responsable de la programmation. Il est en charge de la conception de sites, d’applications, de logiciels et de programmes informatiques&hellip;",
             "content_html": "<p>Le développeur web, c’est le responsable de la <strong>programmation</strong>. Il est en charge de la conception de sites, d’applications, de logiciels et de programmes informatiques « sur-mesure » pour répondre aux besoins de son entreprise ou des clients. Pour cela, il analyse d’abord leurs besoins et réfléchit à l’ergonomie du programme à venir, dans l’objectif de satisfaire les utilisateurs. Il dresse ensuite un cahier des charges qui précise tous les détails nécessaires pour ces <strong>créations</strong>, avant de l’appliquer en écrivant les lignes de code. Enfin, il effectue des tests et dans la majorité des cas, est obligé par la suite de corriger les erreurs et d’adapter le logiciel selon les demandes du client.</p>\n<p> </p>\n<p>Après la création du site, de l’application, du programme ou du logiciel commandé, le <strong>développeur web</strong> a pour mission de le maintenir et de le faire évoluer quand cela est nécessaire. Il est considéré comme le responsable de son bon fonctionnement. Dès que des bugs remontent, il doit les résoudre au plus vite pour qu’ils n’impactent pas le programme en question. Lorsque ses compétences le permettent, il veille à la responsivité du <strong>site</strong> afin que celui-ci soit optimisé pour le mobile.</p>\n<p> </p>\n<p>Le développeur web possède également une casquette de formateur. En effet, il peut être amené à rédiger des guides qui permettront aux utilisateurs de mieux comprendre les <strong>programmes</strong> créés. Ces explications servent aussi à former les personnes à éviter les erreurs ou à les régler plus facilement en cas de besoin. L’apprentissage peut se faire à travers une formation individuelle ou d’un groupe d’employés.</p>",
-            "image": "https://badlee.github.io/media/posts/3/2778464.jpg",
+            "image": "https://badlee.js.org/media/posts/3/2778464.jpg",
             "author": {
                 "name": "Ulrich Badinga"
             },
             "tags": [
             ],
-            "date_published": "2021-02-02T13:24:05+00:00",
-            "date_modified": "2021-02-02T13:24:05+00:00"
+            "date_published": "2021-02-02T13:31:55+00:00",
+            "date_modified": "2021-02-02T13:31:55+00:00"
         },
         {
-            "id": "https://badlee.github.io/conception-and-developpement-dapplication-mobile/",
-            "url": "https://badlee.github.io/conception-and-developpement-dapplication-mobile/",
+            "id": "https://badlee.js.org/conception-and-developpement-dapplication-mobile/",
+            "url": "https://badlee.js.org/conception-and-developpement-dapplication-mobile/",
             "title": "Conception &amp; développement d&#x27;application mobile",
             "summary": "Les applications mobiles représentent désormais plus de la moitié du temps passé sur les téléphones mobiles et tablettes. Développer une application pour smartphone n’est&hellip;",
             "content_html": "<div class=\"row-bg-wrap\" data-bg-animation=\"none\">\n<div class=\"row-bg-overlay\"><span style=\"color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);\">Les applications mobiles représentent désormais plus de la moitié du temps passé sur les téléphones mobiles et tablettes.</span></div>\n</div>\n<div class=\"col span_12 dark left\">\n<div class=\"vc_col-sm-12 wpb_column column_container vc_column_container col no-extra-padding instance-0 no-left-margin\" data-t-w-inherits=\"default\" data-border-radius=\"none\" data-shadow=\"none\" data-border-animation=\"\" data-border-animation-delay=\"\" data-border-width=\"none\" data-border-style=\"solid\" data-border-color=\"\" data-bg-cover=\"\" data-padding-pos=\"all\" data-has-bg-color=\"false\" data-bg-color=\"\" data-bg-opacity=\"1\" data-hover-bg=\"\" data-hover-bg-opacity=\"1\" data-animation=\"\" data-delay=\"0\">\n<div class=\"vc_column-inner\">\n<div class=\"wpb_wrapper\">\n<div id=\"fws_5f5bf6942ab38\" class=\"wpb_row vc_row-fluid vc_row inner_row standard_section    \" data-midnight=\"\" data-column-margin=\"default\" data-bg-mobile-hidden=\"\">\n<div class=\"col span_12  left\">\n<div class=\"vc_col-sm-12 wpb_column column_container vc_column_container col no-extra-padding instance-1 no-left-margin\" data-t-w-inherits=\"default\" data-shadow=\"none\" data-border-radius=\"none\" data-border-animation=\"\" data-border-animation-delay=\"\" data-border-width=\"none\" data-border-style=\"solid\" data-border-color=\"\" data-bg-cover=\"\" data-padding-pos=\"all\" data-has-bg-color=\"false\" data-bg-color=\"\" data-bg-opacity=\"1\" data-hover-bg=\"\" data-hover-bg-opacity=\"1\" data-animation=\"\" data-delay=\"0\">\n<div class=\"vc_column-inner\">\n<div class=\"wpb_wrapper\">\n<div class=\"wpb_text_column wpb_content_element \">\n<div class=\"wpb_wrapper\">\n<p><br>Développer une application pour smartphone n’est pas qu’une question de ligne de codes. Nos équipes de développeurs confirmés travaillent pour mettre en place sur IOS (iPhone, iPad) ou Android des solutions technologiques les plus robustes, innovantes et performantes possibles. Nos projets sont réalisés sur-mesure mais reposent sur une très large bibliothèque de composantes de code réutilisables qui rendent l’exécution du service plus rapide et plus fiable.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
-            "image": "https://badlee.github.io/media/posts/2/4325058.jpg",
+            "image": "https://badlee.js.org/media/posts/2/4325058.jpg",
             "author": {
                 "name": "Ulrich Badinga"
             },
             "tags": [
             ],
-            "date_published": "2021-02-02T13:24:05+00:00",
-            "date_modified": "2021-02-02T13:24:05+00:00"
+            "date_published": "2021-02-02T13:31:55+00:00",
+            "date_modified": "2021-02-02T13:31:55+00:00"
         },
         {
-            "id": "https://badlee.github.io/conception-and-developpement-dapplication-metier/",
-            "url": "https://badlee.github.io/conception-and-developpement-dapplication-metier/",
+            "id": "https://badlee.js.org/conception-and-developpement-dapplication-metier/",
+            "url": "https://badlee.js.org/conception-and-developpement-dapplication-metier/",
             "title": "Conception &amp; développement d&#x27;application métier",
             "summary": "Des solutions informatiques pour mieux gérer votre activitéVotre entreprise de développement Web à Abidjan vous permet de contrôler toutes les opérations de votre entreprise ou votre activité&hellip;",
             "content_html": "<div class=\"nectar-split-heading animated-in\">\n<div class=\"heading-line\">\n<h2>Des solutions informatiques pour mieux gérer votre activité</h2>\n</div>\n</div>\n<div class=\"wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_bottom-to-top bottom-to-top vc_custom_1577810166482 animated wpb_start_animation\">\n<div class=\"wpb_wrapper\">\n<p>Votre entreprise de <strong>développement Web à Abidjan</strong> vous permet de contrôler toutes les opérations de votre entreprise ou votre activité partout où vous êtes à travers votre plateforme informatique conçue entièrement sur mesure et selon vos besoins.</p>\n</div>\n</div>",
-            "image": "https://badlee.github.io/media/posts/1/343320-PALLZR-795-2.jpg",
+            "image": "https://badlee.js.org/media/posts/1/343320-PALLZR-795-2.jpg",
             "author": {
                 "name": "Ulrich Badinga"
             },
             "tags": [
             ],
-            "date_published": "2021-02-02T13:24:05+00:00",
-            "date_modified": "2021-02-02T13:24:05+00:00"
+            "date_published": "2021-02-02T13:31:55+00:00",
+            "date_modified": "2021-02-02T13:31:55+00:00"
         }
     ]
 }
