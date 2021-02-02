@@ -5,7 +5,7 @@
     "home_page_url": "https://badlee.js.org",
     "feed_url": "https://badlee.js.org/feed.json",
     "user_comment": "",
-    "icon": "https://badlee.js.org/media/website/logo.png",
+    "icon": "https://badlee.js.org/media/website/logo-256.png",
     "author": {
         "name": "Ulrich Badinga"
     },
@@ -22,8 +22,8 @@
             },
             "tags": [
             ],
-            "date_published": "2021-02-02T13:31:55+00:00",
-            "date_modified": "2021-02-02T13:31:55+00:00"
+            "date_published": "2021-02-02T13:45:42+00:00",
+            "date_modified": "2021-02-02T13:45:42+00:00"
         },
         {
             "id": "https://badlee.js.org/conception-and-developpement-dapplication-mobile/",
@@ -37,8 +37,8 @@
             },
             "tags": [
             ],
-            "date_published": "2021-02-02T13:31:55+00:00",
-            "date_modified": "2021-02-02T13:31:55+00:00"
+            "date_published": "2021-02-02T13:45:42+00:00",
+            "date_modified": "2021-02-02T13:45:42+00:00"
         },
         {
             "id": "https://badlee.js.org/conception-and-developpement-dapplication-metier/",
@@ -52,8 +52,8 @@
             },
             "tags": [
             ],
-            "date_published": "2021-02-02T13:31:55+00:00",
-            "date_modified": "2021-02-02T13:31:55+00:00"
+            "date_published": "2021-02-02T13:45:42+00:00",
+            "date_modified": "2021-02-02T13:45:42+00:00"
         }
     ]
 }
